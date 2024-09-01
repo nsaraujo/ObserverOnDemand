@@ -1,0 +1,5 @@
+com\mycompany\observer\Plataforma.class
+com\mycompany\observer\iObserver.class
+com\mycompany\observer\Observer.class
+com\mycompany\observer\Usuario.class
+com\mycompany\observer\Conteudo.class
